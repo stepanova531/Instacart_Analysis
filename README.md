@@ -5,10 +5,10 @@ Instacart is an online grocery store that operates through an app. The Instacart
 # Data
 Data has been taken from Instacart open-source data sets. The customer data set was created the purpose of this analysis.
 # Tools
-Python
-Jupyter Notebook
-Pandas & NumPy Libraries
-Matplotlib
+Python,
+Jupyter Notebook,
+Pandas & NumPy Libraries,
+Matplotlib,
 Seaborn  
 # Insights & Recommendations
 The analysis of Instacart data is trying to answer many business questions about how the customers’ ordering behavior differs for different type of clients.      
