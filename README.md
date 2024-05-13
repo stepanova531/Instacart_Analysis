@@ -11,6 +11,9 @@ Pandas & NumPy Libraries,
 Matplotlib,
 Seaborn  
 # Insights & Recommendations
+
+[Final report](GitHub_Instacart/05 Sent to clients)
+
 The analysis of Instacart data is trying to answer many business questions about how the customers’ ordering behavior differs for different type of clients.      
 ## What is the distribution among users in regards to their brand loyalty?  How often do they return to Instacart?
 The customers are ranked by their loyalty given the number of orders placed:
