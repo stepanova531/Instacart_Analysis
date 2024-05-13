@@ -12,7 +12,7 @@ Matplotlib,
 Seaborn  
 # Insights & Recommendations
 
-[Final report](GitHub_Instacart/05 Sent to clients)
+[Final report](https://github.com/stepanova531/Instacart_Analysis/tree/ff4c824cff5e211b544941617e9d7e55c42d8fd1/GitHub_Instacart/05%20Sent%20to%20clients)
 
 The analysis of Instacart data is trying to answer many business questions about how the customers’ ordering behavior differs for different type of clients.      
 ## What is the distribution among users in regards to their brand loyalty?  How often do they return to Instacart?
